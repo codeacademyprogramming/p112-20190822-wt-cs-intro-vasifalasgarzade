@@ -1,0 +1,7 @@
+C:\Users\Vasif\Desktop\task-1\homewor-task1\homewor-task1\obj\Debug\homewor-task1.csprojAssemblyReference.cache
+C:\Users\Vasif\Desktop\task-1\homewor-task1\homewor-task1\obj\Debug\homewor-task1.csproj.CoreCompileInputs.cache
+C:\Users\Vasif\Desktop\task-1\homewor-task1\homewor-task1\bin\Debug\homewor-task1.exe.config
+C:\Users\Vasif\Desktop\task-1\homewor-task1\homewor-task1\bin\Debug\homewor-task1.exe
+C:\Users\Vasif\Desktop\task-1\homewor-task1\homewor-task1\bin\Debug\homewor-task1.pdb
+C:\Users\Vasif\Desktop\task-1\homewor-task1\homewor-task1\obj\Debug\homewor-task1.exe
+C:\Users\Vasif\Desktop\task-1\homewor-task1\homewor-task1\obj\Debug\homewor-task1.pdb
